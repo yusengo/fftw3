@@ -16,5 +16,3 @@ fftw-3.3.
 
 Support for MIPS64 paired-single SIMD instructions was graciously
 donated by CodeSourcery, Inc.
-
-copyright@mit.com
